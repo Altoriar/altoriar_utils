@@ -29,9 +29,14 @@ export { unique, uniqueBySet } from './array/unique';
 /* Object */
 
 /* String */
+export { reverseString, palindrome, truncate } from './string';
 
 /* Data Structures and Algorithms  */
 
 /* Sort */
 
 /* Events */
+
+/* Promise */
+
+/* axios */
