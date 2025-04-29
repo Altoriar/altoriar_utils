@@ -1,3 +1,5 @@
+/* 手写apply */
+
 export function apply<T extends (...args: any[]) => any>(
 	fn: T,
 	obj: object | null | undefined,

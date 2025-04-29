@@ -1,3 +1,5 @@
+/* 手写call */
+
 export function call<T extends (...args: any[]) => any>(
 	fn: T,
 	obj: object | null | undefined,

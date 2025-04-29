@@ -1,3 +1,5 @@
+/* 手写bind */
+
 export function bind<T extends (...args: any[]) => any>(
 	fn: T,
 	obj: object | null | undefined,
