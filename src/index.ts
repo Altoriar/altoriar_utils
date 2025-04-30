@@ -27,6 +27,11 @@ export { slice } from './array/slice';
 export { unique, uniqueBySet } from './array/unique';
 
 /* Object */
+export { clone } from './object/clone';
+export { deepClone } from './object/deepClone';
+export { mergeObject } from './object/mergeObject';
+export { myInstanceof } from './object/myInstanceOf';
+export { newInstance } from './object/newInstance';
 
 /* String */
 export { reverseString, palindrome, truncate } from './string';
