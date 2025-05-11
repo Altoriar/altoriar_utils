@@ -42,6 +42,9 @@ export { reverseString, palindrome, truncate } from './string';
 
 /* Events */
 
+/* PubSub */
+export { PubSub } from './pub-sub/index';
+
 /* Promise */
 
 /* axios */
